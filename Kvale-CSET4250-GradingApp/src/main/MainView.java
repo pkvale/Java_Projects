@@ -20,8 +20,6 @@ import java.awt.Color;
 import javax.swing.JButton;
 import javax.swing.border.LineBorder;
 import main.ResultsTableModel;
-import sun.applet.Main;
-
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
